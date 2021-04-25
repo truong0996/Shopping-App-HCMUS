@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\bin\Debug\CSDLNC_TH.exe.config
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\bin\Debug\CSDLNC_TH.exe
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\bin\Debug\CSDLNC_TH.pdb
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\obj\Debug\CSDLNC_TH.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\obj\Debug\CSDLNC_TH.QLBH.resources
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\obj\Debug\CSDLNC_TH.Properties.Resources.resources
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\obj\Debug\CSDLNC_TH.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\obj\Debug\CSDLNC_TH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\obj\Debug\CSDLNC_TH.exe
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\obj\Debug\CSDLNC_TH.pdb
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\obj\Debug\CSDLNC_TH.KhachHang.resources
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\obj\Debug\CSDLNC_TH.GioHang.resources
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\obj\Debug\CSDLNC_TH.LichSuMua.resources
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\obj\Debug\CSDLNC_TH.CuaHang.resources
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\obj\Debug\CSDLNC_TH.DSDonHang.resources
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\obj\Debug\CSDLNC_TH.ChiTietDSDonHang.resources
+C:\Users\Admin\source\repos\CSDLNC_TH\CSDLNC_TH\obj\Debug\CSDLNC_TH.CuaHangThemSP.resources
